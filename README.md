@@ -1,6 +1,6 @@
 # ARK Ascended Launcher
 
-[![Downloads](https://img.shields.io/github/downloads/YeiHai/ARKAscendedLauncher/v1.0.0/ARKAscendedLauncher_Setup.exe?label=Downloads)](https://github.com/YeiHai/ARKAscendedLauncher/releases/tag/v1.0.0)
+[![Downloads](https://img.shields.io/github/downloads/YeiHai/ARKAscendedLauncher/total?label=Downloads)](https://github.com/YeiHai/ARKAscendedLauncher/releases)
 
 ARK Ascended Launcher is a native Windows launcher for ARK: Survival Ascended
 (Steam AppId `2399830`). It provides a lightweight Win32/Direct3D 11 interface
@@ -54,6 +54,12 @@ delete `%APPDATA%\ARKAscendedLauncher`.
 4. Use DLCs to unlock or maintain supported optional content.
 5. Use Play to validate files and launch the game.
 6. Use Settings > Check for Updates to check GitHub Releases manually.
+
+## Referenced Projects
+
+- `tek-steamclient`: https://github.com/teknology-hub/tek-steamclient
+- `tek-injector`: https://github.com/teknology-hub/tek-injector
+- `tek-game-runtime`: https://github.com/teknology-hub/tek-game-runtime
 
 ## License
 
